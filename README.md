@@ -1,6 +1,6 @@
 # Reverse IP Lookup Program
 
-This program performs a reverse IP lookup for a given domain name to find other domain names associated with the same IP address. It uses the ViewDNS API to query the IP address for related domains and saves the results to a file.
+This Tool performs a reverse IP lookup for a specified domain name to identify other domain names hosted on the same IP address. It leverages the ViewDNS API to query the IP address and retrieve a list of associated domains, which are then saved to an output file.
 
 ## Requirements
 
