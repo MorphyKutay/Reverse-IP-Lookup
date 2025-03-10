@@ -8,7 +8,7 @@ Before running the program, ensure the following libraries are installed:
 
 - [libcurl](https://curl.haxx.se/libcurl/)
 - [nlohmann/json](https://github.com/nlohmann/json)
-- [API KEY](https://viewdns.info/)
+- [Viewdns API Key](https://viewdns.info/)
 
 ### Install on Linux (Ubuntu):
 ```bash
