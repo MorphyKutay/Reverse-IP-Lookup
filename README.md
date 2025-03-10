@@ -31,10 +31,11 @@ brew install nlohmann-json
 
 ### Parameters:
 
+```
 1-) -u <domain>: The domain name (e.g., google.com)
 2-) -a <apikey>: ViewDNS API key
 3-) -o <output.txt>: The name of the output file (e.g., output.txt)
-
+```
 ### License
 
 [GNU General Public License (GPL)](https://github.com/MorphyKutay/Reverse-IP-Lookup/blob/main/LICENSE)
